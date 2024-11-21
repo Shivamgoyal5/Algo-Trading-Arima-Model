@@ -1,3 +1,3 @@
 ### ALGO TRADING 
 
-./Screenshot%2024-11-22%20020436.png
+./Screenshot%2024-11-22%020436.png
